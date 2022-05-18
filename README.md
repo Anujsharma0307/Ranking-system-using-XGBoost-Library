@@ -14,7 +14,5 @@ Rank for Information Retrieval by Tie-Yan Liu''' , which is readily available on
 
 1. A2.py : This contains the python script demonstrating the training and ranking model
 2. A2.run : This is a text file containing the run results of the A2.py on the dataset
-3. train.tsv : A large file of labelled query-document pairs suitable for training. 
-4. test.tsv : The holdout set that you will use to create a runfile.
 5. documents.tsv: A 3 field file containing the document id, original html, and
    clean text parse of each document.
